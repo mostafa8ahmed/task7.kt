@@ -1,0 +1,8 @@
+package Taskk1
+
+fun main(){
+val brithy_day= readln().toInt()
+
+        println("My age is ${2023-brithy_day}")
+
+}
